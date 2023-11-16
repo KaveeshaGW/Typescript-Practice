@@ -15,4 +15,4 @@ function add(x, y) {
 }
 console.log(add('one', 'two')); //* Returns "onetwo"
 console.log(add(1, 2)); //* Returns 3
-console.log(add('one', 2)); //* Returns error
+//console.log(add('one', 2));      //* Returns error
